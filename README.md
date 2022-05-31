@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=ncn-ends)
+
 **Skills**: JS, TS, React, NodeJS, C#, .NET, SQL, Linux, CSS
 
 
