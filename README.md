@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![](https://komarev.com/ghpvc/?username=ncn-ends)  <br>**Skills**: JS, TS, React, NodeJS, C#, .NET, SQL, Linux, CSS<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ncn-ends&layout=compact&theme=dark)](https://github.com/ncn-ends/github-readme-stats)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ncn-ends&layout=compact&theme=dark&langs_count=6)](https://github.com/ncn-ends/github-readme-stats)<br>
 
 
 <!--
