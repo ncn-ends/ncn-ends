@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=ncn-ends)
 
 **Skills**: JS, TS, React, NodeJS, C#, .NET, SQL, Linux, CSS
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ncn-ends&layout=compact)](https://github.com/ncn-ends/github-readme-stats)
 
 <!--
 **ncn-ends/ncn-ends** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
