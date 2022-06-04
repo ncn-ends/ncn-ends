@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=ncn-ends)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ncn-ends&layout=compact)](https://github.com/ncn-ends/github-readme-stats)
-**Skills**: JS, TS, React, NodeJS, C#, .NET, SQL, Linux, CSS
+![](https://komarev.com/ghpvc/?username=ncn-ends)  <br>**Skills**: JS, TS, React, NodeJS, C#, .NET, SQL, Linux, CSS<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ncn-ends&layout=compact)](https://github.com/ncn-ends/github-readme-stats)<br>
+
 
 <!--
 **ncn-ends/ncn-ends** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
