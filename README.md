@@ -57,7 +57,9 @@
 
 
 ## Stats 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ncn-ends&hide_border=true&layout=compact&theme=dark" align="center" /></div>  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ncn-ends&hide_border=true&layout=compact&theme=dark" align="center" />
+</div>  
 
 <br/>  
 
