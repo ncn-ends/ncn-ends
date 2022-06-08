@@ -21,6 +21,11 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />
 <img style="margin: 10px" src="https://svgur.com/i/i3Z.svg" alt="NextJS" height="50" />
 <img style="margin: 10px" src="https://svgur.com/i/i37.svg" alt="Tailwind" height="50" />
+<details>
+  <summary>
+    Projects</summary>
+  asd
+  </details>
 </div>
 
 </td><td valign="top" width="33%">
