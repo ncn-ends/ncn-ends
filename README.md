@@ -16,6 +16,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
+<img style="margin: 10px" src="https://i.imgur.com/E8GZ96Z.png" alt="React Native" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />
 <img style="margin: 10px" src="https://seeklogo.com/images/N/next-js-logo-7929BCD36F-seeklogo.com.png" alt="NextJS" height="50" />
 <img style="margin: 10px" src="https://svgur.com/i/i37.svg" alt="Tailwind" height="50" />
