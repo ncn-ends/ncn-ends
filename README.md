@@ -39,6 +39,10 @@
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" alt="Node.js" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" /> 
+<details>
+  <summary></summary>
+  C#, TS, .NET, NodeJS, Python, GraphQL
+</details>
 </div>
 
 </td><td valign="top" width="33%">
