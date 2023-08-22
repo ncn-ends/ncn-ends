@@ -22,7 +22,7 @@
 <img style="margin: 10px" src="https://svgur.com/i/i37.svg" alt="Tailwind" height="50" />
 <img style="margin: 10px" src="https://www.solidjs.com/img/logo/without-wordmark/logo.png" alt="SolidJS" height="50" />
 <details>
-  <summary></summary>
+  <summary>Click</summary>
   CSS, TypeScript, React, React Native, Redux, NextJS, Tailwind, SolidJS
 </details>
 </div>
@@ -40,7 +40,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" /> 
 <details>
-  <summary></summary>
+  <summary>Click</summary>
   C#, TS, .NET, NodeJS, Python, GraphQL
 </details>
 </div>
@@ -59,7 +59,7 @@
 <img style="margin: 10px" src="https://cyclr.com/wp-content/uploads/2022/03/ext-550.png" alt="MSSQL" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/strapi.svg" alt="Strapi" height="50" />
 <details>
-  <summary></summary>
+  <summary>Click</summary>
   Docker, Linux, Azure, Firebase, Postgres, MSSQL, Strapi
 </details>
 </div>
