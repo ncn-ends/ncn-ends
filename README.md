@@ -58,6 +58,10 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />  
 <img style="margin: 10px" src="https://cyclr.com/wp-content/uploads/2022/03/ext-550.png" alt="MSSQL" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/strapi.svg" alt="Strapi" height="50" />
+<details>
+  <summary></summary>
+  Docker, Linux, Azure, Firebase, Postgres, MSSQL, Strapi
+</details>
 </div>
 
 </td></tr></table>  
