@@ -21,6 +21,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />
 <img style="margin: 10px" src="https://seeklogo.com/images/N/next-js-logo-7929BCD36F-seeklogo.com.png" alt="NextJS" height="50" />
 <img style="margin: 10px" src="https://svgur.com/i/i37.svg" alt="Tailwind" height="50" />
+<img style="margin: 10px" src="https://www.solidjs.com/img/logo/without-wordmark/logo.png" alt="SolidJS" height="50" />
 </div>
 
 </td><td valign="top" width="33%">
