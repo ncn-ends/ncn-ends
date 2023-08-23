@@ -57,10 +57,11 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />  
 <img style="margin: 10px" src="https://cyclr.com/wp-content/uploads/2022/03/ext-550.png" alt="MSSQL" height="50" />  
+<img style="margin: 10px" src="https://cambridge-intelligence.com/wp-content/uploads/2019/05/cosmos-db-640x600.png" alt="CosmosDb" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/strapi.svg" alt="Strapi" height="50" />
 <details>
   <summary>Click</summary>
-  Docker, Linux, Azure, Firebase, Postgres, MSSQL, Strapi
+  Docker, Linux, Azure, Firebase, Postgres, MSSQL, CosmosDb, Strapi
 </details>
 </div>
 
