@@ -18,7 +18,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
 <img style="margin: 10px" src="https://i.imgur.com/E8GZ96Z.png" alt="React Native" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />
-<img style="margin: 10px" src="https://seeklogo.com/images/N/next-js-logo-7929BCD36F-seeklogo.com.png" alt="NextJS" height="50" />
+<img style="margin: 10px" src="https://assets-global.website-files.com/63b5c0982b18e6411f506075/64762b5b48d53f174fe39dd5_nextjs-may-30.png" alt="NextJS" height="50" />
 <img style="margin: 10px" src="https://svgur.com/i/i37.svg" alt="Tailwind" height="50" />
 <img style="margin: 10px" src="https://www.solidjs.com/img/logo/without-wordmark/logo.png" alt="SolidJS" height="50" />
 <details>
