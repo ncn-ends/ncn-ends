@@ -13,18 +13,18 @@
 
 ### Frontend  
 <div align="center">  
-<img style="margin: 5px" src="https://seeklogo.com/images/M/material-ui-logo-5BDCB9BA8F-seeklogo.com.png" alt="MaterialUI" height="40" />
 <img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="40" />  
 <img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="40" />  
 <img style="margin: 5px" src="https://i.imgur.com/E8GZ96Z.png" alt="React Native" height="40" />  
-<img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="40" />  
+<img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS" height="40" />  
+<img style="margin: 5px" src="https://seeklogo.com/images/M/material-ui-logo-5BDCB9BA8F-seeklogo.com.png" alt="MaterialUI" height="40" />
 <img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="40" />
 <img style="margin: 5px" src="https://pulkitgangwar.gallerycdn.vsassets.io/extensions/pulkitgangwar/nextjs-snippets/1.0.1/1678968590213/Microsoft.VisualStudio.Services.Icons.Default" alt="NextJS" height="40" />
 <img style="margin: 5px" src="https://svgur.com/i/i37.svg" alt="Tailwind" height="40" />
 <img style="margin: 5px" src="https://www.solidjs.com/img/logo/without-wordmark/logo.png" alt="SolidJS" height="40" />
 <details>
   <summary>Click</summary>
-  CSS, TypeScript, React, React Native, MaterialUI, Redux, NextJS, Tailwind, SolidJS
+  TypeScript, React, React Native, CSS, MaterialUI, Redux, NextJS, Tailwind, SolidJS
 </details>
 </div>
 
@@ -36,7 +36,7 @@
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="40" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="40" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="40" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".NET Core" height="40" />  
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" alt="Node.js" height="40" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="40" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="40" /> 
@@ -61,7 +61,7 @@
 <img style="margin: 10px" src="https://cambridge-intelligence.com/wp-content/uploads/2019/05/cosmos-db-640x600.png" alt="CosmosDb" height="40" />
 <details>
   <summary>Click</summary>
-  Docker, Linux, Azure, Firebase, Postgres, MSSQL, CosmosDb, Strapi
+  Docker, Linux, Azure, Firebase, Postgres, MSSQL, CosmosDb
 </details>
 </div>
 
