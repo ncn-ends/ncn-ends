@@ -73,7 +73,7 @@
 
 ## Stats 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ncn-ends&langs_count=6&hide_border=true&layout=compact&theme=dark&hide=html&hide=css" align="center" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ncn-ends&langs_count=6&hide_border=true&layout=compact&theme=dark&hide=html,css" align="center" />
 </div>  
 
 <br/>  
