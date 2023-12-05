@@ -50,7 +50,7 @@
 
 
 
-### Database + DevOps
+### Other
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="40" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="40" />  
