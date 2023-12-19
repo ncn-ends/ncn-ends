@@ -40,9 +40,10 @@
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" alt="Node.js" height="40" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="40" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="40" /> 
+<img style="margin: 10px" src="https://static-00.iconduck.com/assets.00/redis-plain-wordmark-icon-2048x2048-ts2riq6b.png" alt="Redis" height="40" /> 
 <details>
   <summary>Click</summary>
-  C#, TS, .NET, NodeJS, Python, GraphQL
+  C#, TS, .NET, NodeJS, Python, GraphQL, Redis
 </details>
 </div>
 
