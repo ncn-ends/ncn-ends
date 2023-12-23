@@ -28,7 +28,7 @@
 </td><td valign="top" width="33%">
 
 
-### Frameworks/etc
+### Frameworks / etc
 <div align="center">  
 <img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="40" />  
 <img style="margin: 5px" src="https://i.imgur.com/E8GZ96Z.png" alt="React Native" height="40" />  
@@ -48,7 +48,7 @@
 </td><td valign="top" width="33%">
 
 
-### Database/System/etc
+### Database / System / etc
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="40" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="40" />  
