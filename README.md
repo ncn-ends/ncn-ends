@@ -21,7 +21,7 @@
   
 <details>
   <summary>Click</summary>
-  TypeScript, C#, Python, CSS, Nix, F#
+  TypeScript, C#, CSS, Nix, Python, F#
 </details>
 </div>
 
@@ -50,10 +50,10 @@
 
 ### Database / System / etc
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="40" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="40" />  
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/2/28/Nix_snowflake.svg" alt="Nix" height="40" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="40" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="40" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="40" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="40" />  
 <img style="margin: 10px" src="https://cyclr.com/wp-content/uploads/2022/03/ext-550.png" alt="MSSQL" height="40" />  
@@ -61,7 +61,7 @@
 <img style="margin: 10px" src="https://static-00.iconduck.com/assets.00/redis-plain-wordmark-icon-2048x2048-ts2riq6b.png" alt="Redis" height="40" /> 
 <details>
   <summary>Click</summary>
-  Docker, Linux, Nix, Azure, Firebase, Postgres, MSSQL, CosmosDb, Redis
+  Linux, Nix, Azure, Docker, Firebase, Postgres, MSSQL, CosmosDb, Redis
 </details>
 </div>
 
