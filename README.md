@@ -35,8 +35,8 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".NET Core" height="40" />  
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" alt="Node.js" height="40" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="40" /> 
-<img style="margin: 5px" src="https://seeklogo.com/images/M/material-ui-logo-5BDCB9BA8F-seeklogo.com.png" alt="MaterialUI" height="40" />
-<img style="margin: 5px" src="https://svgur.com/i/i37.svg" alt="Tailwind" height="40" />
+<img style="margin: 5px" src="https://i.imgur.com/M19eEI4.png" alt="MaterialUI" height="40" />
+<img style="margin: 5px" src="https://i.imgur.com/Zeo5E2f.png" alt="Tailwind" height="40" />
 <img style="margin: 5px" src="https://www.solidjs.com/img/logo/without-wordmark/logo.png" alt="SolidJS" height="40" />
 <img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="40" />
 <details>
