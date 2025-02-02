@@ -18,10 +18,11 @@
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/2/28/Nix_snowflake.svg" alt="Nix" height="40" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="40" />
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/F_Sharp_logo.svg/1200px-F_Sharp_logo.svg.png" alt="F#" height="40" />  
+<img style="margin: 10px" src="https://i.imgur.com/MNPMUSu.png" alt="Blazor" height="40" />
   
 <details>
   <summary>Click</summary>
-  TypeScript, C#, CSS, Nix, Python, F#
+  TypeScript, C#, CSS, Nix, Python, F#, Blazor
 </details>
 </div>
 
