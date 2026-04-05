@@ -59,7 +59,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="40" />  
 <img style="margin: 10px" src="https://cyclr.com/wp-content/uploads/2022/03/ext-550.png" alt="MSSQL" height="40" />  
 <img style="margin: 10px" src="https://cambridge-intelligence.com/wp-content/uploads/2019/05/cosmos-db-640x600.png" alt="CosmosDb" height="40" />
-<img style="margin: 10px" src="https://static-00.iconduck.com/assets.00/redis-plain-wordmark-icon-2048x2048-ts2riq6b.png" alt="Redis" height="40" /> 
+<img style="margin: 10px" src="https://www.svgrepo.com/show/303460/redis-logo.svg" alt="Redis" height="40" /> 
 <details>
   <summary>Click</summary>
   Linux, Nix, Azure, Docker, Firebase, Postgres, MSSQL, CosmosDb, Redis
