@@ -70,15 +70,6 @@
 
 <br/>  
 
-
-## Stats 
-
-[![ncn-ends's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ncn-ends&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/ncn-ends/github-readme-stats#gh-dark-mode-only)
-
-<br/>  
-
-  
-
 <br/>  
 
 <div align="center">
